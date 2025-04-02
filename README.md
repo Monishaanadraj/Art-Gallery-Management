@@ -38,7 +38,7 @@ The **Art Gallery Management System** is an online platform that allows users to
    cd art-gallery-management
    
 2. **Setup the Database**
-   - Import database.sql into MySQL
+   - Import agmsdb.sql into MySQL
    - Configure database connection in config.php
 
 3. **Run the Project**

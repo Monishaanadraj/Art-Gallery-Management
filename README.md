@@ -38,10 +38,17 @@ The **Art Gallery Management System** is an online platform that allows users to
    cd art-gallery-management
    
 2. **Setup the Database**
-   - Import agmsdb.sql into MySQL
-   - Configure database connection in config.php
+   - Open PHPMyAdmin (http://localhost/phpmyadmin)
+   - Create a database with the name agmsdb
+   - Import agmsdb.sql file(given inside the SQL file folder)
+
 
 3. **Run the Project**
    - Start a local server (XAMPP or WAMP)
    - Place the project folder in htdocs (for XAMPP) or www (for WAMP)
-   - Open http://localhost/art-gallery-management/ in a browser
+   - Run the script http://localhost/agms in a browser
+
+4. **Credential for Admin panel :**
+   - Username: admin
+   - Password: Test@123
+

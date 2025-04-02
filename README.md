@@ -34,8 +34,9 @@ The **Art Gallery Management System** is an online platform that allows users to
 ## 🚀 Installation Guide
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/art-gallery-management.git
+   git clone https://github.com/Monishaanadraj/Art-Gallery-Management.git
    cd art-gallery-management
+   ```
    
 2. **Setup the Database**
    - Open PHPMyAdmin (http://localhost/phpmyadmin)
